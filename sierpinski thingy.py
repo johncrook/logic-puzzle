@@ -57,3 +57,4 @@ class SierpinskiTriangle:
         return p
 
 SierpinskiTriangle() # Create GUI
+#i just added this for fun.
